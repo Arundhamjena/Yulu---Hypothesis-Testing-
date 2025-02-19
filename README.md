@@ -22,8 +22,5 @@ The dataset contains time-series data on e-bike rentals, including variables suc
 - Clear weather conditions result in increased rentals.  
 - Statistical tests confirm significant variations in demand based on external factors.  
 
-## 📄 License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
-
 ## 🤝 Contact  
 For any queries or suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arundham-jena-59aa20143/). 🚴‍♂️  
